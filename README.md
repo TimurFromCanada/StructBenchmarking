@@ -1,1 +1,7 @@
-# StructBenchmarking
+Полный проект и его описание можно скачать с ulearn.me (Основы программирования на примере C#. Часть 1)
+
+В этом проекте ставили эксперименты с измерением производительности некоторых операций со структурами и обычными классами.
+
+Часть 1. Benchmark В файле BenchmarkTask.cs реализовывали в классе Benchmark интерфейс IBenchmark
+
+Часть 2. Тест StringConstructorFasterThanStringBuilder Сравнивали создание string и stringbuilder
